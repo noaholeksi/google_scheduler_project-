@@ -1,0 +1,27 @@
+# Virtual environments
+scheduler_env/
+venv/
+.venv/
+env/
+
+# Google OAuth credentials & tokens (do not commit)
+credentials.json
+token.json
+
+# Environment variables
+.env
+.env.local
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# OS
+.DS_Store
